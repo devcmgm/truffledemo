@@ -3,6 +3,7 @@ Demo Truffle App
 
 This demo give you a simple command line app using the demo unbox code from MetaCoin.
 
+Base on code from: https://github.com/truffle-box/metacoin-box
 
 NOTE: You should download and install Ganache https://www.trufflesuite.com/ganache and NODEJS https://nodejs.org/en/download/
 
